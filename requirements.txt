@@ -1,0 +1,13 @@
+xlrd
+numpy
+matplotlib
+ipywidgets
+nbinteract
+netCDF4
+scipy
+pandas==0.25.1
+seaborn
+statsmodels
+joblib
+
+#git+https://github.com/dhhagan/py-smps.git
